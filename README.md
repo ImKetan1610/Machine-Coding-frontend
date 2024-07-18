@@ -56,181 +56,95 @@
 ## Expert Frontend Development (Part 1)
 51. Custom Web Animation Library: Create a small JavaScript library for animating elements on a webpage, including support for various easing functions.
 52. Custom UI Components: Create custom UI components, such as a modal dialog, date picker, or autocomplete, from scratch using HTML, CSS, and JavaScript.
-
-Mobile-First Development: Develop a webpage following the mobile-first approach, ensuring it looks and functions well on mobile devices and scales up to larger screens.
-
-Third-Party API Integration: Integrate with a third-party API (e.g., Google Maps, Twitter, YouTube) and display data or content from that API on your webpage.
-
-Offline Support: Implement offline support for a web application, allowing users to access content even when they have no internet connection.
-
-Browser History API: Use the Browser History API to implement client-side routing in a single-page application (SPA).
-
-Infinite Scroll with Pagination: Combine infinite scrolling with pagination to load and display content efficiently while allowing users to navigate through pages of data.
-
-Web Audio Player: Build a web-based audio player with features like play, pause, volume control, and playlist support.
-
-WebGL Experiment: Develop an interactive WebGL project, such as a 3D visualization or animation, and embed it into a webpage.
-
-Lazy-Loaded Modules: Implement lazy-loading for modules in a frontend framework (e.g., React, Angular, Vue.js) to reduce the initial bundle size.
-
-SVG Icon Library: Create a reusable SVG icon library with a search and usage feature for easy integration into web projects.
-
-WebGL 3D Scene: Develop a 3D scene using WebGL, including 3D models, textures, and interactive elements.
-
-Lazy-Loaded Images: Implement lazy-loaded images that load only when they come into the user's viewport, improving page loading performance.
-
-Web Performance Monitoring: Implement web performance monitoring and analytics to track and analyze website performance over time.
-
-Web Security Audit: Perform a security audit on a web application and identify vulnerabilities like SQL injection, XSS, and CSRF. Suggest and implement fixes.
-
-Server-Side Rendering (SSR) with React: Set up server-side rendering (SSR) for a React application.
-
-WebGL Shader Effects: Build a WebGL-based shader effect, such as a water ripple effect or a dynamic particle system.
-
-Lazy-Loaded Images: Implement lazy-loaded images that load only when they come into the user's viewport, improving page loading performance.
-
-Web Performance Monitoring: Implement web performance monitoring and analytics to track and analyze website performance over time.
-
-Web Security Audit: Perform a security audit on a web application and identify vulnerabilities like SQL injection, XSS, and CSRF. Suggest and implement fixes.
-
-Server-Side Rendering (SSR): Implement server-side rendering for a frontend framework (e.g., React, Angular) to improve initial page load performance.
-
-WebGL Shader Effects: Build a WebGL-based shader effect, such as a water ripple effect or a dynamic particle system.
-
-Virtual DOM Implementation: Implement a simplified virtual DOM (similar to React's virtual DOM) in JavaScript.
-
-Progressive Image Loading: Develop an image loading technique that progressively loads images, starting with low-quality placeholders and improving to high-quality images.
-
-Touch and Gesture Events: Implement touch and gesture events in a web application to provide touch-based interactions on mobile devices.
-
-Browser Storage Management: Build a utility for managing browser storage (localStorage, sessionStorage) and provide methods for setting, getting, and removing data.
-
-Web Worker: Use a web worker to offload computationally intensive tasks from the main thread, improving performance.
-
-Custom UI Components: Create custom UI components, such as a modal dialog, date picker, or autocomplete, from scratch using HTML, CSS, and JavaScript/jQuery.
-
-Mobile-First Development: Develop a webpage following the mobile-first approach, ensuring it looks and functions well on mobile devices and scales up to larger screens.
-
-Third-Party API Integration: Integrate with a third-party API (e.g., Google Maps, Twitter, YouTube) and display data or content from that API on your webpage.
-
-Offline Support: Implement offline support for a web application, allowing users to access content even when they have no internet connection.
-
-Browser Storage Encryption: Implement encryption for data stored in browser storage (e.g., localStorage) to enhance security.
-
-WebGL Particle Animation: Create a particle animation using WebGL, simulating effects like fire, rain, or fireworks.
-
-WebGL Data Visualization: Develop a data visualization using WebGL to represent complex datasets in an interactive 3D format.
-
-Custom Drag and Drop: Create a custom drag-and-drop functionality for elements on a webpage without relying on external libraries.
-
-Server-Side Rendering (SSR): Implement server-side rendering for a frontend framework (e.g., React, Angular) to improve initial page load performance.
-
-WebGL Shader Effects: Build a WebGL-based shader effect, such as a water ripple effect or a dynamic particle system.
-
-Virtual DOM Implementation: Implement a simplified virtual DOM (similar to React's virtual DOM) in JavaScript.
-
-Progressive Image Loading: Develop an image loading technique that progressively loads images, starting with low-quality placeholders and improving to high-quality images.
-
-Touch and Gesture Events: Implement touch and gesture events in a web application to provide touch-based interactions on mobile devices.
-
-Browser Storage Management: Build a utility for managing browser storage (localStorage, sessionStorage) and provide methods for setting, getting, and removing data.
-
-Web Worker: Use a web worker to offload computationally intensive tasks from the main thread, improving performance.
-
-Browser Storage Encryption: Implement encryption for data stored in browser storage (e.g., localStorage) to enhance security.
-
-WebGL Particle Animation: Create a particle animation using WebGL, simulating effects like fire, rain, or fireworks.
-
-WebGL Data Visualization: Develop a data visualization using WebGL to represent complex datasets in an interactive 3D format.
-
-Custom Drag and Drop: Create a custom drag-and-drop functionality for elements on a webpage without relying on external libraries.
+53. Mobile-First Development: Develop a webpage following the mobile-first approach, ensuring it looks and functions well on mobile devices and scales up to larger screens.
+54. Third-Party API Integration: Integrate with a third-party API (e.g., Google Maps, Twitter, YouTube) and display data or content from that API on your webpage
+55. Offline Support: Implement offline support for a web application, allowing users to access content even when they have no internet connection.
+56. Browser History API: Use the Browser History API to implement client-side routing in a single-page application (SPA).
+57. Infinite Scroll with Pagination: Combine infinite scrolling with pagination to load and display content efficiently while allowing users to navigate through pages of data.
+58. Web Audio Player: Build a web-based audio player with features like play, pause, volume control, and playlist support.
+59. WebGL Experiment: Develop an interactive WebGL project, such as a 3D visualization or animation, and embed it into a webpage.
+60. Lazy-Loaded Modules: Implement lazy-loading for modules in a frontend framework (e.g., React, Angular, Vue.js) to reduce the initial bundle size.
+61. SVG Icon Library: Create a reusable SVG icon library with a search and usage feature for easy integration into web projects.
+62. WebGL 3D Scene: Develop a 3D scene using WebGL, including 3D models, textures, and interactive elements.
+63. Lazy-Loaded Images: Implement lazy-loaded images that load only when they come into the user's viewport, improving page loading performance.
+64. Web Performance Monitoring: Implement web performance monitoring and analytics to track and analyze website performance over time.
+65. Web Security Audit: Perform a security audit on a web application and identify vulnerabilities like SQL injection, XSS, and CSRF. Suggest and implement fixes.
+66. Server-Side Rendering (SSR) with React: Set up server-side rendering (SSR) for a React application.
+67. WebGL Shader Effects: Build a WebGL-based shader effect, such as a water ripple effect or a dynamic particle system.
+68. Lazy-Loaded Images: Implement lazy-loaded images that load only when they come into the user's viewport, improving page loading performance.
+69. Web Performance Monitoring: Implement web performance monitoring and analytics to track and analyze website performance over time.
+70. Web Security Audit: Perform a security audit on a web application and identify vulnerabilities like SQL injection, XSS, and CSRF. Suggest and implement fixes.
+71. Server-Side Rendering (SSR): Implement server-side rendering for a frontend framework (e.g., React, Angular) to improve initial page load performance.
+72. WebGL Shader Effects: Build a WebGL-based shader effect, such as a water ripple effect or a dynamic particle system.
+73. Virtual DOM Implementation: Implement a simplified virtual DOM (similar to React's virtual DOM) in JavaScript.
+74. Progressive Image Loading: Develop an image loading technique that progressively loads images, starting with low-quality placeholders and improving to high-quality images.
+75. Touch and Gesture Events: Implement touch and gesture events in a web application to provide touch-based interactions on mobile devices.
+76. Browser Storage Management: Build a utility for managing browser storage (localStorage, sessionStorage) and provide methods for setting, getting, and removing data.
+77. Web Worker: Use a web worker to offload computationally intensive tasks from the main thread, improving performance.
+78. Custom UI Components: Create custom UI components, such as a modal dialog, date picker, or autocomplete, from scratch using HTML, CSS, and JavaScript/jQuery.
+79. Mobile-First Development: Develop a webpage following the mobile-first approach, ensuring it looks and functions well on mobile devices and scales up to larger screens.
+80. Third-Party API Integration: Integrate with a third-party API (e.g., Google Maps, Twitter, YouTube) and display data or content from that API on your webpage.
+81. Offline Support: Implement offline support for a web application, allowing users to access content even when they have no internet connection.
+82. Browser Storage Encryption: Implement encryption for data stored in browser storage (e.g., localStorage) to enhance security.
+83. WebGL Particle Animation: Create a particle animation using WebGL, simulating effects like fire, rain, or fireworks.
+84. WebGL Data Visualization: Develop a data visualization using WebGL to represent complex datasets in an interactive 3D format.
+85. Custom Drag and Drop: Create a custom drag-and-drop functionality for elements on a webpage without relying on external libraries.
+86. Server-Side Rendering (SSR): Implement server-side rendering for a frontend framework (e.g., React, Angular) to improve initial page load performance.
+87. WebGL Shader Effects: Build a WebGL-based shader effect, such as a water ripple effect or a dynamic particle system.
+88. Virtual DOM Implementation: Implement a simplified virtual DOM (similar to React's virtual DOM) in JavaScript.
+89. Progressive Image Loading: Develop an image loading technique that progressively loads images, starting with low-quality placeholders and improving to high-quality images.
+90. Touch and Gesture Events: Implement touch and gesture events in a web application to provide touch-based interactions on mobile devices.
+91. Browser Storage Management: Build a utility for managing browser storage (localStorage, sessionStorage) and provide methods for setting, getting, and removing data.
+92. Web Worker: Use a web worker to offload computationally intensive tasks from the main thread, improving performance.
+93. Browser Storage Encryption: Implement encryption for data stored in browser storage (e.g., localStorage) to enhance security.
+94. WebGL Particle Animation: Create a particle animation using WebGL, simulating effects like fire, rain, or fireworks.
+95. WebGL Data Visualization: Develop a data visualization using WebGL to represent complex datasets in an interactive 3D format.
+96. Custom Drag and Drop: Create a custom drag-and-drop functionality for elements on a webpage without relying on external libraries.
 
 ## React
-React Component: Create a simple React component (e.g., a button or a card) and render it on a webpage.
-
-State Management: Build a React component that manages and displays state, such as a counter that increments when a button is clicked.
-
-Props and PropTypes: Create a React component that accepts props and uses PropTypes to define and validate the expected props.
-
-Conditional Rendering: Implement conditional rendering in a React component based on a condition like user authentication.
-
-Handling Events: Add event handlers to React components (e.g., onClick, onChange) to make them interactive.
-
-Component Lifecycle: Utilize component lifecycle methods (e.g., componentDidMount, componentDidUpdate) in a React component.
-
-Forms in React: Create a form in a React component and manage its state as users input data.
-
-React Router: Set up routing in a React application using React Router, with multiple routes and navigation.
-
-API Data Fetching: Fetch data from an API in a React component and display it.
-
-Context API: Use React's Context API to manage and share state or data across multiple components.
-
-Redux Setup: Set up a Redux store, actions, and reducers in a React application.
-
-Redux State Management: Implement state management with Redux, connecting React components to the Redux store.
-
-Redux Middleware: Use Redux middleware (e.g., Thunk) to handle asynchronous actions in a Redux-powered React application.
-
-Authentication Flow: Implement user authentication and authorization in a React application, including login and protected routes.
-
-React Hooks: Rewrite class-based React components into functional components using hooks like useState and useEffect.
-
-Redux Saga: Integrate Redux Saga for handling side effects (e.g., API calls) in a Redux-based React application.
-
-React Higher-Order Components (HOCs): Create a higher-order component (HOC) to add functionality to existing React components.
-
-Error Handling: Implement error handling and display error messages in a React application.
-
-Optimizing Performance: Optimize the performance of a React application by reducing unnecessary renders and using memoization.
-
-Unit Testing with React Testing Library: Write unit tests for React components using React Testing Library and Jest.
-
-Server-Side Rendering (SSR) with React: Set up server-side rendering (SSR) for a React application.
-
-Progressive Web App (PWA) with React: Convert a React application into a Progressive Web App with offline support.
-
-Internationalization (i18n): Implement internationalization and localization in a React application.
-
-React Animation: Add animations and transitions to React components using libraries like React Spring or Framer Motion.
-
-Data Pagination: Implement data pagination in a React application, fetching and displaying data in chunks.
-
-Real-time Updates: Enable real-time updates in a React application using WebSocket or a similar technology.
-
-Authentication with OAuth: Implement OAuth-based authentication (e.g., OAuth 2.0) in a React application.
-
-Testing React Hooks: Write unit tests for custom React hooks using React Testing Library and Jest.
-
-Custom React Router: Build a custom router using React Router's low-level APIs to gain a deeper understanding of routing.
+97. React Component: Create a simple React component (e.g., a button or a card) and render it on a webpage.
+98. State Management: Build a React component that manages and displays state, such as a counter that increments when a button is clicked.
+99. Props and PropTypes: Create a React component that accepts props and uses PropTypes to define and validate the expected props.
+100. Conditional Rendering: Implement conditional rendering in a React component based on a condition like user authentication.
+101. Handling Events: Add event handlers to React components (e.g., onClick, onChange) to make them interactive.
+102. Component Lifecycle: Utilize component lifecycle methods (e.g., componentDidMount, componentDidUpdate) in a React component.
+103. Forms in React: Create a form in a React component and manage its state as users input data.
+104. React Router: Set up routing in a React application using React Router, with multiple routes and navigation.
+105. API Data Fetching: Fetch data from an API in a React component and display it.
+106. Context API: Use React's Context API to manage and share state or data across multiple components.
+107. Redux Setup: Set up a Redux store, actions, and reducers in a React application.
+108. Redux State Management: Implement state management with Redux, connecting React components to the Redux store.
+109. Redux Middleware: Use Redux middleware (e.g., Thunk) to handle asynchronous actions in a Redux-powered React application.
+110. Authentication Flow: Implement user authentication and authorization in a React application, including login and protected routes.
+111. React Hooks: Rewrite class-based React components into functional components using hooks like useState and useEffect.
+112. Redux Saga: Integrate Redux Saga for handling side effects (e.g., API calls) in a Redux-based React application.
+113. React Higher-Order Components (HOCs): Create a higher-order component (HOC) to add functionality to existing React components.
+114. Error Handling: Implement error handling and display error messages in a React application.
+115. Optimizing Performance: Optimize the performance of a React application by reducing unnecessary renders and using memoization.
+116. Unit Testing with React Testing Library: Write unit tests for React components using React Testing Library and Jest.
+117. Server-Side Rendering (SSR) with React: Set up server-side rendering (SSR) for a React application.
+118. Progressive Web App (PWA) with React: Convert a React application into a Progressive Web App with offline support.
+119. Internationalization (i18n): Implement internationalization and localization in a React application.
+120. React Animation: Add animations and transitions to React components using libraries like React Spring or Framer Motion.
+121. Data Pagination: Implement data pagination in a React application, fetching and displaying data in chunks.
+122. Real-time Updates: Enable real-time updates in a React application using WebSocket or a similar technology.
+123. Authentication with OAuth: Implement OAuth-based authentication (e.g., OAuth 2.0) in a React application.
+124. Testing React Hooks: Write unit tests for custom React hooks using React Testing Library and Jest.
+125. Custom React Router: Build a custom router using React Router's low-level APIs to gain a deeper understanding of routing.
 
 ## Redux
-Redux Store: Create a Redux store and define actions and reducers to manage state.
-
-Redux Actions and Reducers: Implement Redux actions and reducers to handle specific features or data in a Redux store.
-
-Redux Middleware: Add custom middleware to a Redux store to intercept and modify actions.
-
-Redux Thunk: Use Redux Thunk middleware to handle asynchronous actions in a Redux store.
-
-Redux Saga: Set up Redux Saga to manage side effects, such as API calls, in a Redux-powered application.
-
-Redux State Normalization: Normalize the shape of the Redux store to efficiently manage relational data.
-
-Redux Selector Functions: Create selector functions in a Redux application to efficiently retrieve and compute the derived state.
-
-Redux Immutable State: Ensure that the Redux store's state remains immutable to prevent unintended mutations.
-
-Redux Persistence: Implement state persistence in a Redux application, allowing the state to be saved and restored across sessions.
-
-Redux Testing: Write unit tests for Redux actions, reducers, and selectors using testing libraries like Jest.
-
-Redux Middleware Testing: Test Redux middleware, such as Thunk or Saga, to ensure correct behavior.
-
-Redux DevTools: Integrate and use Redux DevTools to inspect and debug the Redux store.
-
-Redux Integration with React: Connect a React application to a Redux store, dispatch actions, and map state to props.
-
-Redux Integration with Angular: Integrate Redux with an Angular application using libraries like NgRx.
-
-Redux Integration with Vue.js: Integrate Redux with a Vue.js application using libraries like Vuex.
+126. Redux Store: Create a Redux store and define actions and reducers to manage state.
+127. Redux Actions and Reducers: Implement Redux actions and reducers to handle specific features or data in a Redux store.
+128. Redux Middleware: Add custom middleware to a Redux store to intercept and modify actions.
+129. Redux Thunk: Use Redux Thunk middleware to handle asynchronous actions in a Redux store.
+130. Redux Saga: Set up Redux Saga to manage side effects, such as API calls, in a Redux-powered application.
+131. Redux State Normalization: Normalize the shape of the Redux store to efficiently manage relational data.
+132. Redux Selector Functions: Create selector functions in a Redux application to efficiently retrieve and compute the derived state.
+133. Redux Immutable State: Ensure that the Redux store's state remains immutable to prevent unintended mutations.
+134. Redux Persistence: Implement state persistence in a Redux application, allowing the state to be saved and restored across sessions.
+135. Redux Testing: Write unit tests for Redux actions, reducers, and selectors using testing libraries like Jest.
+136. Redux Middleware Testing: Test Redux middleware, such as Thunk or Saga, to ensure correct behavior.
+137. Redux DevTools: Integrate and use Redux DevTools to inspect and debug the Redux store.
+138. Redux Integration with React: Connect a React application to a Redux store, dispatch actions, and map state to props.
+139. Redux Integration with Angular: Integrate Redux with an Angular application using libraries like NgRx.
+140. Redux Integration with Vue.js: Integrate Redux with a Vue.js application using libraries like Vuex.
